@@ -1,17 +1,23 @@
 # SQL-Fundamentals-Exercises
 
 
-Developed SQL solutions to retrieve, filter, aggregate, and categorize data using real-world business scenarios, demonstrating core data analysis and problem-solving skills.
+This repository contains my completed SQL Fundamentals exercises, designed to build a strong foundation in SQL for data analytics. The exercises focus on writing accurate SQL queries to retrieve, filter, sort, group, aggregate, and categorize data using real-world business scenarios.
+
+Throughout these exercises , I've applied SQL best practices to analyse and strengthen my understanding of database querying, data manipulation, and analytical problem-solving.
 
 ---------------------------------------------------------------------------------------------
 
 🎯** Project Objectives**
 
 
-Strengthen SQL querying skills.
-Apply filtering, grouping, and aggregation techniques.
-Use CASE statements to categorize data.
-Interpret query results accurately.
+
+Build a strong foundation in SQL.
+Develop confidence in solving real-world business problems with SQL.
+Retrieve and filter data using SQL queries.
+Analyse data using aggregate functions.
+Group and summarize data using `GROUP BY` and `HAVING`.
+Categorize data using `CASE` statements.
+Improve logical thinking and query-writing skills.
 
 ------------------------------------------------------------------------------------------------------
 
