@@ -1,7 +1,7 @@
 # SQL-Fundamentals-Exercises
 
 
-This repository contains my completed SQL Fundamentals exercises, designed to build a strong foundation in SQL for data analytics. The exercises focus on writing accurate SQL queries to retrieve, filter, sort, group, aggregate, and categorize data using real-world business scenarios.
+This repository contains my completed SQL Fundamentals exercises, designed to build a strong foundation in SQL for data analytics. The exercises focus on writing accurate SQL queries to retrieve, filter, sort, group, aggregate, and categorise data using real-world business scenarios.
 
 Throughout these exercises , I've applied SQL best practices to analyse and strengthen my understanding of database querying, data manipulation, and analytical problem-solving.
 
